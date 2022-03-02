@@ -13,10 +13,3 @@ max_deposit = int(max(deposit))
 
 print(deposit)
 print("Максимальная сумма, которую вы можете получить :", max_deposit)
-
-
-
-
-
-
-
